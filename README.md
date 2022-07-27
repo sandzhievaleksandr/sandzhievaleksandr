@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sandzhievaleksandr
-- 👀 I’m interested in becoming to be an developer
-- 🌱 I’m currently learning python development and data analisys
+- 👀 I’m interested in becoming to be an data analisys or sql enjgeener
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sandzhiev314@gmail.com
 
