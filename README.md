@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sandzhievaleksandr
-- 👀 I am looking for a job as a data analyst and sql engineer
+- ✨ I'm very good in SQL
+- 👀 **I am looking for a job** as a data analyst and sql engineer
 - 📫 How to reach me sandzhiev314@gmail.com
 
 <!---
